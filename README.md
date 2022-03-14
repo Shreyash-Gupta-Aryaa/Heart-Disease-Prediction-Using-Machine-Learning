@@ -3,6 +3,7 @@
 As the chances of having a heart disease is increasing because of the unhealthy life style we are living. There can be multiple reasons of having heart disease.
 It will be much better to know it before having any heart disease. This is where Machine Learning comes into play. 
 This project predicts whether any person have a heart disease based on the data.
+The language used is Python.
 
 
 The dataset consist of the data of previous patients who have or do not have heart disease. 
